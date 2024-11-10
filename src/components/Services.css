@@ -1,0 +1,16 @@
+/* src/components/Services.css */
+.services {
+    padding: 20px;
+  }
+  
+  .services-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  .services-list li {
+    padding: 10px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+  }

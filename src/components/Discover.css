@@ -1,0 +1,15 @@
+/* src/components/Discover.css */
+.discover {
+    padding: 20px;
+  }
+  
+  .reviews {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .review {
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+  }
